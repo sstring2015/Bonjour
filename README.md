@@ -1,4 +1,6 @@
 # Bonjour
+![alt text](https://github.com/sstring2015/Bonjour/blob/master/React_Chatting_App.jpg?raw=true)
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
