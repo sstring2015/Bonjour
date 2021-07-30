@@ -25,6 +25,6 @@ $ npm install
 ```
 Then type
 ```
-$npm start
+$ npm start
 ```
 in server as well as client side to run the project
